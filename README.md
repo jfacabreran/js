@@ -1,1 +1,1 @@
-# js platzi
+# js
